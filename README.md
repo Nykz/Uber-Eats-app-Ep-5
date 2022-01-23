@@ -5,4 +5,4 @@ Watch the Full Episode on YouTube at https://www.youtube.com/watch?v=R0XYWdSoDgw
 
 Ionic 6 Uber Eats App Series: https://www.youtube.com/watch?v=Td46HaHVR0g&list=PLixvNT19uDK6KvCAXMWtsS3EiwXZI8xwJ&ab_channel=CodingTechnyks
 
-<img src="https://github.com/Nykz/IonicTravelAppEp4/blob/main/travel4%20thumbnail.png" width="1000" height="600" />
+<img src="https://github.com/Nykz/Uber-Eats-app-Ep-5/blob/main/thumbnail.jpg" width="1000" height="600" />
